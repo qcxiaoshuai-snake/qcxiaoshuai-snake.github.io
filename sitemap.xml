@@ -2,17 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://qcxiaoshuai.net/post-sitemap.xml</loc>
+        <loc>http://yoursite-url/post-sitemap.xml</loc>
         <lastmod>2019-11-24T14:06:32.488Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://qcxiaoshuai.net/page-sitemap.xml</loc>
-        <lastmod>2018-10-22T04:25:57.254Z</lastmod>
+        <loc>http://yoursite-url/page-sitemap.xml</loc>
+        <lastmod>2019-11-24T14:01:56.118Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://qcxiaoshuai.net/tag-sitemap.xml</loc>
+        <loc>http://yoursite-url/tag-sitemap.xml</loc>
         <lastmod>2019-11-24T14:06:32.488Z</lastmod>
     </sitemap>
 
