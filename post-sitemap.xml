@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://yoursite-url</loc>
+        <loc>http://qcxiaoshuai.net</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://yoursite-url/20170318/hexo-theme-beantech/</loc>
-        <lastmod>2019-11-24T12:38:59.206Z</lastmod>
+        <loc>http://qcxiaoshuai.net/article/html-css-base-3-6%E5%B1%9E%E6%80%A7%E5%80%BC%E7%9A%84%E8%AE%A1%E7%AE%97%E8%BF%87%E7%A8%8B/</loc>
+        <lastmod>2019-11-24T14:06:32.488Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://yoursite-url/20191124/html-css-base-3-6%E5%B1%9E%E6%80%A7%E5%80%BC%E7%9A%84%E8%AE%A1%E7%AE%97%E8%BF%87%E7%A8%8B/</loc>
-        <lastmod>2019-11-24T12:26:46.179Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://yoursite-url/20170318/test/</loc>
-        <lastmod>2019-11-24T07:44:41.220Z</lastmod>
+        <loc>http://qcxiaoshuai.net/article/hexo-theme-huweihuang/</loc>
+        <lastmod>2019-06-23T02:56:23.013Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
